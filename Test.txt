@@ -1,2 +1,19 @@
 I am Rammiya
-I am jathu
+I am jathusiya
+I am Kajanthuka
+I'm Natheeshan.
+I'm Sinthuvamsan
+next commit
+third commit
+I am Jana
+I am Vaheeson
+I'm Natheeshan.
+I'm Sinthuvamsan
+I am Cudeson
+I am Kajanthuka
+I'm Natheeshan.
+I'm Sinthuvamsan
+I make confilict
+next commit
+
+>>>>>>> 66e94f5617129a2f8379aad865a6fd42743f5c3d
