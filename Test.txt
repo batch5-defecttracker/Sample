@@ -1,2 +1,8 @@
 I am Rammiya
+<<<<<<< HEAD
 I am Kajanthuka
+=======
+I'm Natheeshan.
+I'm Sinthuvamsan
+
+>>>>>>> d4c08f99a05e57d6030d59bebeae291e5979e4da
